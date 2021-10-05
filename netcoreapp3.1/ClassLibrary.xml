@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClassLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:ClassLibrary.FootballPlayer">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:ClassLibrary.FootballPlayer.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:ClassLibrary.FootballPlayer.Name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:ClassLibrary.FootballPlayer.Price">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:ClassLibrary.FootballPlayer.ShirtNumber">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:ClassLibrary.FootballPlayer.#ctor(System.Int32,System.String,System.Single,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <param name="name"></param>
+            <param name="price"></param>
+            <param name="shirtNumber"></param>
+        </member>
+        <member name="M:ClassLibrary.FootballPlayer.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>
